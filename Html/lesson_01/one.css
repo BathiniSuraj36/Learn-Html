@@ -1,0 +1,18 @@
+html {
+    font-size: 22px;
+}
+body {
+    background: linear-gradient(to right,red ,orange,yellow);
+    color: whitesmoke;
+}
+a {
+    color: aliceblue;
+}
+
+a:visited{
+    color:  aquamarine;
+}
+
+a :active, a:hover{
+    color: blue;
+}
