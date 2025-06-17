@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: rgb(250, 106, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 500%;
+}
+
+p {
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+}
