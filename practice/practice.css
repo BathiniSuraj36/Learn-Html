@@ -1,0 +1,45 @@
+.pic{
+    display: flex;
+    /* margin-left: 100px; */
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+    /* background-color: black; */
+}
+.pic img{
+    background-color: rgb(49, 45, 45);
+    border: 5px solid rgb(249, 7, 7);
+    
+    
+}
+.pic figure{
+    text-align: center;
+    color: rgb(13, 138, 248);
+}
+
+.pic figcaption{
+    background-color: black;
+    margin-top: 15px;
+    font-size: x-large;
+    border: 5px solid rosybrown;
+}
+
+table {
+    
+    border: 2px solid rgb(0, 0, 0); 
+    margin: 40 px auto;
+    width: 80%;
+    margin: auto;
+    /* border-collapse: collapse; */
+    /* justify-content: center; */
+}
+
+th,td{
+    color: black;
+    border: 1px solid blue;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    background-color: rgb(255, 127, 197);
+}
